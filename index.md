@@ -9,12 +9,6 @@
     <h1># Deskripsi Aplikasi</h1>
     <p>Aplikasi ini dirancang untuk membantu pengguna dalam mengelola proyek Git secara kolaboratif dengan mudah dan efisien
 
-    <section>
-      <h1>Deskripsi Aplikasi</h1>
-      <p>
-        Aplikasi ini dirancang untuk membantu pengguna dalam mengelola proyek Git secara kolaboratif dengan mudah dan efisien.
-      </p>
-    </section>
     <script src="js/script.js"></script>
   </body>
 </html>
